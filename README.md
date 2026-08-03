@@ -10,7 +10,7 @@
 A scalable portfolio-building platform with a real-time live editor, secure authentication, and optimized media delivery — lets users build and publish a developer portfolio without writing code.
 
 ## 🚀 Live Demo
-[your-vercel-link-here](#) — replace with your actual deployed URL
+[https://devportt.vercel.app](#) — replace with your actual deployed URL
 
 ![Demo Screenshot](#) <!-- drop a screenshot of the live editor here -->
 
