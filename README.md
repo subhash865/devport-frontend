@@ -10,9 +10,9 @@
 A scalable portfolio-building platform with a real-time live editor, secure authentication, and optimized media delivery — lets users build and publish a developer portfolio without writing code.
 
 ## 🚀 Live Demo
-[https://devportt.vercel.app](#) — replace with your actual deployed URL
+[https://devportt.vercel.app](#)
+<img width="1278" height="621" alt="Screenshot 2026-08-03 at 4 09 18 PM" src="https://github.com/user-attachments/assets/5794ec29-23f9-45f7-9fca-582a173ff2af" />
 
-![Demo Screenshot](#) <!-- drop a screenshot of the live editor here -->
 
 ## ✨ Key Features
 - **Real-time live editor** built on Next.js App Router with **10+ reusable UI components** for responsive customization
